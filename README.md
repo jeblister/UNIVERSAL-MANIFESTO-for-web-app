@@ -5,9 +5,10 @@ As part of change in the JavaScript world. I write this manifesto to share with 
 It provides a set of rules that all JS communities and groups, no matter what stacks they shoose, should abide by, uniting JS Universal application as a movement. They are:
 
 1. Our law
+
+
 > Everything that happens in your app is an “action”. These can be caused by users, browser events, or server events. Doesn’t matter. Everything that changes something in your app does it via an “action”.
 
-> 
 
 2. Our wild
 > You have one giant state object that represents all the state in your app. These are not special Models, or Collections, it’s just friggin’ objects, arrays, and primitives. 
