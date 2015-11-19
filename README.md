@@ -24,3 +24,7 @@ It provides a set of rules that all JS communities and groups, no matter what st
 
 7. Our freedom
 > ...
+
+
+# Thanks
+[Why choose actions and changes handler ?]https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux/
